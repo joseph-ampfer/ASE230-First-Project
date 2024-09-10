@@ -1,0 +1,3 @@
+<?php
+INFO_ALL
+?>
